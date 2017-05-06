@@ -1,0 +1,6 @@
+1.在此目录下打开终端
+运行 javac *.java
+ps：如遇到编码错误的提示，请用 javac -encoding UTF-8 *.java 命令
+
+2.运行 java Test
+

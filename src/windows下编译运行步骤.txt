@@ -1,0 +1,8 @@
+1.打开命令行，cd 到此文件夹路径下 
+例如 cd C:\Users\Administrator\Desktop\mysvn\trunk\last_group\MineSweep\src
+
+2.运行 javac -encoding UTF-8 *.java
+注意：一定要有 -encoding UTF-8
+
+3.运行 java Test
+
