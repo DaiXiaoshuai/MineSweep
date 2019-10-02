@@ -1,3 +1,2 @@
 # MineSweep
-具体请见
-http://www.poemdistance.com/index.php/2017/05/06/jni/
+基于java图形界面和JNI调取c函数库并且基于跨平台能力的扫雷游戏
